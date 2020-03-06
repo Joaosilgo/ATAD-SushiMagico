@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <data xmlns="http://www.netbeans.org/ns/make-project-private/1">
+        <activeConfTypeElem>1</activeConfTypeElem>
+        <activeConfIndexElem>0</activeConfIndexElem>
+    </data>
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/ATAD_PROJETO/SushiMagico/operacoes.h</file>
+            <file>file:/C:/ATAD_PROJETO/SushiMagico/cliente.txt</file>
+            <file>file:/C:/ATAD_PROJETO/SushiMagico/main.c</file>
+            <file>file:/C:/ATAD_PROJETO/SushiMagico/queueRefeicao.h</file>
+            <file>file:/C:/ATAD_PROJETO/SushiMagico/operacoes.c</file>
+            <file>file:/C:/ATAD_PROJETO/SushiMagico/queueCartao.h</file>
+            <file>file:/C:/ATAD_PROJETO/SushiMagico/pratos.txt</file>
+            <file>file:/C:/ATAD_PROJETO/SushiMagico/refeicao.h</file>
+            <file>file:/C:/ATAD_PROJETO/SushiMagico/queueDynamicRefeicao.c</file>
+            <file>file:/C:/ATAD_PROJETO/SushiMagico/queueDynamicCartao.c</file>
+            <file>file:/C:/ATAD_PROJETO/SushiMagico/refeicao.c</file>
+            <file>file:/C:/ATAD_PROJETO/SushiMagico/typeElement.h</file>
+            <file>file:/C:/ATAD_PROJETO/SushiMagico/operacoes.txt</file>
+            <file>file:/C:/ATAD_PROJETO/SushiMagico/queueTypeElementCartao.h</file>
+            <file>file:/C:/ATAD_PROJETO/SushiMagico/queueTypeElement.c</file>
+            <file>file:/C:/ATAD_PROJETO/SushiMagico/clientes.txt</file>
+            <file>file:/C:/ATAD_PROJETO/SushiMagico/cartaoCliente.h</file>
+            <file>file:/C:/ATAD_PROJETO/SushiMagico/pilhaPratos.c</file>
+            <file>file:/C:/ATAD_PROJETO/SushiMagico/cartaoCliente.c</file>
+            <file>file:/C:/ATAD_PROJETO/SushiMagico/pilhaPratos.h</file>
+            <file>file:/C:/ATAD_PROJETO/SushiMagico/data.c</file>
+            <file>file:/C:/ATAD_PROJETO/SushiMagico/prato.c</file>
+            <file>file:/C:/ATAD_PROJETO/SushiMagico/data.h</file>
+            <file>file:/C:/ATAD_PROJETO/SushiMagico/restaurante.c</file>
+            <file>file:/C:/ATAD_PROJETO/SushiMagico/prato.h</file>
+            <file>file:/C:/ATAD_PROJETO/SushiMagico/restaurante.h</file>
+            <file>file:/C:/ATAD_PROJETO/SushiMagico/queueTypeElementRefeicao.h</file>
+        </group>
+    </open-files>
+</project-private>

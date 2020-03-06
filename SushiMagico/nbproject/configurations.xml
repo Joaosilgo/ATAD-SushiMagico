@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="100">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <logicalFolder name="HeaderFiles"
+                   displayName="Header Files"
+                   projectFiles="true">
+      <itemPath>cartaoCliente.h</itemPath>
+      <itemPath>data.h</itemPath>
+      <itemPath>operacoes.h</itemPath>
+      <itemPath>pilhaPratos.h</itemPath>
+      <itemPath>prato.h</itemPath>
+      <itemPath>queueCartao.h</itemPath>
+      <itemPath>queueRefeicao.h</itemPath>
+      <itemPath>queueTypeElementCartao.h</itemPath>
+      <itemPath>queueTypeElementRefeicao.h</itemPath>
+      <itemPath>refeicao.h</itemPath>
+      <itemPath>restaurante.h</itemPath>
+      <itemPath>typeElement.h</itemPath>
+    </logicalFolder>
+    <logicalFolder name="ResourceFiles"
+                   displayName="Resource Files"
+                   projectFiles="true">
+      <itemPath>cliente.txt</itemPath>
+      <itemPath>clientes.txt</itemPath>
+      <itemPath>operacoes.txt</itemPath>
+      <itemPath>pratos.txt</itemPath>
+    </logicalFolder>
+    <logicalFolder name="SourceFiles"
+                   displayName="Source Files"
+                   projectFiles="true">
+      <itemPath>cartaoCliente.c</itemPath>
+      <itemPath>data.c</itemPath>
+      <itemPath>main.c</itemPath>
+      <itemPath>operacoes.c</itemPath>
+      <itemPath>pilhaPratos.c</itemPath>
+      <itemPath>prato.c</itemPath>
+      <itemPath>queueDynamicCartao.c</itemPath>
+      <itemPath>queueDynamicRefeicao.c</itemPath>
+      <itemPath>queueTypeElement.c</itemPath>
+      <itemPath>refeicao.c</itemPath>
+      <itemPath>restaurante.c</itemPath>
+    </logicalFolder>
+    <logicalFolder name="TestFiles"
+                   displayName="Test Files"
+                   projectFiles="false"
+                   kind="TEST_LOGICAL_FOLDER">
+    </logicalFolder>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>Makefile</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Debug" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <cTool>
+          <standard>3</standard>
+        </cTool>
+      </compileType>
+      <item path="cartaoCliente.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="cartaoCliente.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="cliente.txt" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="clientes.txt" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="data.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="data.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="main.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="operacoes.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="operacoes.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="operacoes.txt" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="pilhaPratos.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="pilhaPratos.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="prato.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="prato.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="pratos.txt" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="queueCartao.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="queueDynamicCartao.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="queueDynamicRefeicao.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="queueRefeicao.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="queueTypeElement.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="queueTypeElementCartao.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="queueTypeElementRefeicao.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="refeicao.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="refeicao.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="restaurante.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="restaurante.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="typeElement.h" ex="false" tool="3" flavor2="0">
+      </item>
+    </conf>
+    <conf name="Release" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <cTool>
+          <developmentMode>5</developmentMode>
+          <standard>3</standard>
+        </cTool>
+        <ccTool>
+          <developmentMode>5</developmentMode>
+        </ccTool>
+        <fortranCompilerTool>
+          <developmentMode>5</developmentMode>
+        </fortranCompilerTool>
+        <asmTool>
+          <developmentMode>5</developmentMode>
+        </asmTool>
+      </compileType>
+      <item path="cartaoCliente.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="cartaoCliente.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="cliente.txt" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="clientes.txt" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="data.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="data.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="main.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="operacoes.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="operacoes.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="operacoes.txt" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="pilhaPratos.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="pilhaPratos.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="prato.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="prato.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="pratos.txt" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="queueCartao.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="queueDynamicCartao.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="queueDynamicRefeicao.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="queueRefeicao.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="queueTypeElement.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="queueTypeElementCartao.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="queueTypeElementRefeicao.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="refeicao.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="refeicao.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="restaurante.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="restaurante.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="typeElement.h" ex="false" tool="3" flavor2="0">
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>
